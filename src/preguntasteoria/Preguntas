@@ -1,0 +1,63 @@
+
+Parte 1. Desarollo téorico. 12 pts
+
+Lista de Preguntas Seleccione 4 de ellas unicamente.
+
+1. [3 pts] ¿Qué es la herencia en Java y cómo se implementa? 
+Proporcione un ejemplo práctico de una clase que hereda de otra, 
+y explica la relación entre la clase padre e hija.
+
+R/La herencia es cuando una clase madre le hereda a sus clases hijas y por medio 
+de extens y al llamar a la clase madre se puede hacer uso de todos sus metodos y 
+atributos. Un ejemplo sería: la clase madre vehiculo con sus atributos marca, 
+id y le hereda a la clase vehiculo de combustion y a vehiculo electrico. 
+Estos son datos generales que comparten los carros.
+
+
+
+
+2.[3 pts] Explique el concepto de polimorfismo en Java. 
+Proporcione un ejemplo concreto utilizando métodos y explique cómo 
+el polimorfismo facilita el diseño de programas flexibles y extensibles.
+
+R/. El polimorfismo hace referencia cuando dos o más metodos de la clase madre se 
+pueden utilizar de la manera que mejor le convenga al sistema. tenemos un metodo de emitirsonido
+este se le puede ejecutar a emitir sonido de un perro o un gato pero cada uno emite un sonido diferente.
+entonces ayuda a que el diseño del programa sea mas flexible y extensible.
+
+
+
+3.[3 pts] ¿Cuál es el propósito de una clase abstracta en Java? 
+Proporciona un ejemplo de una clase abstracta y explica cómo se diferencia
+ de una clase regular.
+
+R/
+
+
+
+
+4.[3 pts] Describa cómo se pueden leer y escribir datos en archivos en Java. 
+Menciona la importancia de manejar excepciones en este contexto.
+
+
+R/. Estos se pueden leer por medio de text de java y además se pueden escribir.
+son importantes para tener claro la funcion que esta llevandose acabo en el codigo.
+
+
+
+5.[3 pts] Explica el concepto de recursividad en Java. 
+Proporciona un ejemplo de una función recursiva y discute cómo funciona,
+ así como las precauciones que deben tomarse al utilizar la recursividad.
+
+
+R/
+
+
+
+6.[3 pts] ¿Cómo se gestiona dinámicamente la memoria en Java? 
+Explica cómo Java aborda la liberación de memoria.
+
+
+R/
+
+
